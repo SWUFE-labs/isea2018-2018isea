@@ -33,10 +33,10 @@ Python bootcamp Workshop for ISEA 2018, SWUFE
 
 ## 学习计划
 
-整个学习利用同学的业务时间进行，每次2-3小时，计划安排如下：
+整个学习利用同学的业余时间进行，每次2-3小时，计划安排如下：
 
 * Day0:
-> workshop整体介绍，学习story map方法，快速行程整个学习内容、计划安排等共识
+> workshop整体介绍，学习story map方法，快速行程整个学习内容、计划安排等共识，jupyter的基本操作（jupyter cheat-sheet）
 
 * Day1: Python 基础
   - python是一种什么类型的编程语言，优点和缺点
@@ -45,7 +45,7 @@ Python bootcamp Workshop for ISEA 2018, SWUFE
   - python的数据类型
   - python的输入输出
   - 变量、列表、字典、元组
-  - 函数（有参数/无参数）
+  - 函数（有参数/无参数），类（class）?
   - 工作流程1: 判断/分支
   - 工作流程2: 循环/迭代
   - 工作流程3: 函数/函数调用
